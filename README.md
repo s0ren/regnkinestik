@@ -1,5 +1,5 @@
 # regnkinestik
-Noter og beregninger om kinestetik på fastelegemer
+Noter og beregninger om kinestetik på faste legemer
 
 ## Noter til Aerial robotics
 
