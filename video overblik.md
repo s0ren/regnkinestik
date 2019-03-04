@@ -48,22 +48,26 @@
 
             __10:28__ Excercise: Gain tuning 
             `GainTuningExercise.zip`
-            Download the simulation GUI attached below and unzip its content to the directory you wish to complete the exercise. Open MATLAB in that directory and type "runsim" in MATLAB Command Window to start the GUI. `GainTuningExercise.zip`
-            Part 1: Tuning the proportional gain K<sub>p</sub>
-​	 
+            Download the simulation GUI attached "below" and unzip its content to the directory you wish to complete the exercise. 
+            Open MATLAB in that directory and type `runsim` in MATLAB Command Window to start the GUI. 
+            
+            __Part 1:__ Tuning the proportional gain K<sub>p</sub>
+            Given the derivative gain K<sub>v</sub> = 18, find the proportional gain K<sub>p</sub> value such that the rise time is less than 1s and overshoot is less than 5%.
+            Enter answer here [___]
 
-Given the derivative gain K_v = 18K 
-v
-​	 =18, find the proportional gain K_pK 
-p
-​	  value such that the rise time is less than 1s and overshoot is less than 5%.
-
-Enter answer here
-
+            __Part 2:__ Tuning the derivative gain K<sub>v</sub>​	 
+            Using the same simulation GUI from part 1, find the derivative gain K<sub>v</sub> such that the rise time is less than 1s and overshoot is less than 5% when the proportional gain K<sub>p</sub> is given as 100.
+            Enter answer here [___]
 
         * 03_design-considerations.mp4
             __3:37__ Excercise: Trust / Weight
+            Download the simulation GUI attached "below" and unzip its content to the directory you wish to complete the exercise.
+            Open MATLAB in that directory and type runsim in MATLAB Command Window to start the GUI.
             `ThrustWeightExercise.zip`
+
+            Given the maximum thrust of 11.77 N (1.2 Kgf) , what is the maximum mass (kg) such that the rise time is less than 1s? (Give an answer to 2 decimal places)
+            Enter answer here [___]
+
         * 04_design-considerations-continued.mp4
         * 05_agility-and-maneuverability.mp4
         * 06_component-selection.mp4
