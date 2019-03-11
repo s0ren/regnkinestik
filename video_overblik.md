@@ -79,7 +79,69 @@
 * 02_geometry-and-mechanics
     * 01_2-1-quadrotor-kinematics
         * 01_transformations.mp4
+        __6:39__ in video Quiz
+        Observe the inertial frame _x_, _y_, _z_ and the rigid body shown by the green cuboid in the left figure below. By applying a transformation _g_ to the rigid body, we obtain the rotated body as shown on the right.
+            ![](2019-03-11-07-37-42.png)
+        Due to the transformation _g_, points _P_ and _Q_ get transformed to _P'_ and _Q'_ respectively.  
+        What is the correct expression for the position of point _P'_?
+            - [ ] g(P)
+            - [ ] g(Q)
+            - [ ] g∗(P)
+            - [ ] g∗(Q)  
+
+        __6:39__ in vidoe quiz
+        Given the same transformation as the previous question:
+        ![](2019-03-11-08-45-39.png)
+        Pick the correct expression(s) for the vector _(P' - Q')_?
+        - [ ] _g∗(P)−g∗(Q)_
+        - [ ] _g(P−Q)_
+        - [ ] _g∗(P−Q)_
+        - [ ] _g(P)−g(Q)_
+
+        __9:16__ in video quiz
+        Using the same transformation that we used before:  
+        Recall that _x_, _y_ and _z_ are orthonormal.  
+        Now, given that the vectors from the origin to the points _P_ and _Q_ are defined as __p__ = [0, 0.5, 0.25]<sup>T</sup> and __q__=[0.5,0,0.5]<sup>T</sup>, what is the value of the dot product __p__ ⋅ __q__? 
+        (Please enter a numeric answer)
+        Enter answer here [______]  
+
+        __11:26__ in video quiz
+
+        Recall the transformation that we've been using:  
+        ![](2019-03-11-08-29-09.png)
+        Which of the following rotation matrices best describes the transform _g_?
+        - [ ]   ⎡ 0 1 0 ⎤
+                ⎢ 0 0 1 |
+                ⎣ 1 0 0 ⎦
+        - [ ]   ⎡ 1 0 0 ⎤
+                ⎢ 0 1 0 |
+                ⎣ 0 0 1 ⎦
+        - [ ]   ⎡ 0 0 1 ⎤
+                ⎢ 1 0 0 |
+                ⎣ 0 1 0 ⎦
+
+        __12:15__ in video quiz
+        Is the following matrix a rotation matrix?
+        ```​math	  
+            ⎡   0.9129  0.1695  0.3714 ⎤
+        R = ⎢  −0.3651  0.7459  0.5571 |
+            ⎣   0.1826  0.6442 −0.7428 ⎦
+        ```
+        - [ ] Yes
+        - [ ] No
+
+        __16:18__ supplementary-material: _rigid-body-displacements_  
+        `01_supplementary-material-rigid-body-displacements.mp4`
+
         * 02_rotations.mp4
+        __2:11__ in video quiz
+        Is there a unique longitude and latitude for every point on the earth's surface?
+        - [ ] Yes
+        - [ ] No
+
+        __3:11__ supplementary-material: _Function properties_  
+        `02_supplementary-material-properties-of-functions.mp4`
+
         * 03_euler-angles.mp4
         * 04_axis-angle-representations-for-rotations.mp4
         * 05_angular-velocity.mp4
