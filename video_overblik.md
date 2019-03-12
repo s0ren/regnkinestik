@@ -144,6 +144,12 @@
 
         * 03_euler-angles.mp4
         * 04_axis-angle-representations-for-rotations.mp4
+        __3:33__ supplementary-material: _Eigenvectors and Eigenvalues_  
+        `05_supplementary-material-eigenvalues-and-eigenvectors-of-matrices.mp4`
+        __7:38__ supplementary-material: _Skew-symetric matrices and the Hat operator_  
+        `08_supplementary-material-skew-symmetric-matrices-and-the-hat-operator.mp4`
+
+
         * 05_angular-velocity.mp4
 
     * 02_2-2-quadrotor-kinematics-supplementary-material
